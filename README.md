@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dhanush-s-gowda&theme=onedark&column=4" alt="Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dhanush-s-gowda&theme=radical&no-frame=true&margin-w=5&margin-h=5" alt="dhanush-s-gowda" />
   </a>
 </p>
 
