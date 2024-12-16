@@ -127,11 +127,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush-s-gowda&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="200"/>
 </p>
-
----
-
-### 📈 My GitHub Contributions:
-
-<p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanush-s-gowda&theme=vue" />
-</p>
