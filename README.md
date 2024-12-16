@@ -120,7 +120,14 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanush-s-gowda&show_icons=true&locale=en&theme=radical" alt="Dhanush S Gowda" height="200" width="400"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush-s-gowda&theme=radical" alt="Streak Stats" height="200" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush-s-gowda&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="200" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanush-s-gowda&show_icons=true&locale=en&theme=radical" alt="Dhanush S Gowda" width="400"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush-s-gowda&theme=radical" alt="Streak Stats" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush-s-gowda&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+</p>
+
+
+
