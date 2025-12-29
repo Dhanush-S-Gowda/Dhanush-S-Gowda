@@ -20,7 +20,11 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanush-s-gowda" height="40" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/__dhanush.1085__/" target="blank">
+  <a href="https://dhanushsgowda.com" target="blank">
+    <img align="center" src="https://2.gravatar.com/avatar/a977ed8455473474e4f2c2c22b3d130219a9ccc7d2410b4ad12c3d372dfd1306?s=160" alt="portfolio" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/d.h.a.n.u.s.h_sgowda/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,10 +34,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/dhanush_sgowda" target="blank">
     <img align="center" src="https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_400x400.jpg" alt="X" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://solo.to/dhanushsgowda" target="blank">
-    <img align="center" src="https://cdn.solo.to/images/logo/solo-icon.svg" alt="Solo.to" height="40" width="40" />
   </a>
   
 </p>
